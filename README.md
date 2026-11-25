@@ -1,15 +1,12 @@
 <div align="center">
-  <a href="https://loterc.vercel.app">
-    <img src="./banner.svg" alt="Luther John Allen Concepcion — Junior Full Stack Web Developer" width="100%" />
-  </a>
-</div>
 
-<p align="center">
-  <a href="https://loterc.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/lutherconcepcion">LinkedIn</a> ·
-  <a href="mailto:lutherjohnallen@gmail.com">Email</a> ·
-  <a href="https://loterc.vercel.app/documents/luther-john-allen-concepcion-cv.pdf">Resume / CV</a>
-</p>
+# Luther John Allen Concepcion
+
+**Junior Full Stack Web Developer · Offline AI & Privacy-First Systems**
+
+[Portfolio](https://loterc.vercel.app) · [LinkedIn](https://www.linkedin.com/in/lutherconcepcion) · [Email](mailto:lutherjohnallen@gmail.com) · [Resume / CV](https://loterc.vercel.app/documents/luther-john-allen-concepcion-cv.pdf)
+
+</div>
 
 ---
 
